@@ -36,5 +36,6 @@
 - 경량화
 
   ## 수료증
-  
+  ![코칭 11](https://github.com/kgw08003/coaching_study_11_Lets_ai_2023/assets/109195054/fff9405e-9748-440e-8421-c54dd2a5a142)
+
     
